@@ -2,7 +2,7 @@
 
 This a simple testimony of my existence on [GitHub](https://poeciborg.github.io/).
 
-###I write, code, design, research. Mostly, I love to learn.
+### I write, code, design, research. Mostly, I love to learn.
 
 I'm a literature addict with a Bachelor's degree in Social Communication and a Master's degree in Creative Writing. I´m equiped with a diversity of techinical skills also, a wide range including desing, python and data science.
 
