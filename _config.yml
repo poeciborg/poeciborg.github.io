@@ -1,9 +1,9 @@
 ---
-title: Minimal Text
+title: Matías Buonfrate 
 baseurl: "/Minimal-Text"
-desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
-image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+desc: (UX) Writer & Data Science.
+about: I love literature. I'm a creative writer with a Bachelor's degree in Social Communication and technical education in data science. Currently finishing a Master's Degree in Creative Writing at Seville University, Spain. For my thesis I'm investigating (reading papers about) the relationship between AI and Literature by analizing how story generator algorithms write fiction "by themselves" in non-advertising ways. I code in Python, RASA library, to articulate an essay as a chatbot. Current mindframe: B. Latour, D. Haraway, R. Barthes, R. Piglia and W. Benjamin.
+image: https://media-exp1.licdn.com/dms/image/C4D03AQFqehD-33KrTg/profile-displayphoto-shrink_200_200/0?e=1597881600&v=beta&t=uU1mIEpSnrb4InnVUqG_jecfidQKyEG5AWAvVFEU94w
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
