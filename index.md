@@ -13,10 +13,14 @@ Currently, I'm deeply interested in the relationship between AI, Literature and 
 
 ### Links
 [Neural](https://www.literaturaneural.com/): publishing company, digital 100%.
-[Instagram](https://www.instagram.com/poeciborg/): where I show off about robots, language and machines.
+
 [Linkedin](https://www.linkedin.com/in/mbuonfrate/): for professional references.
+
+[Instagram](https://www.instagram.com/poeciborg/): where I show off about robots, language and machines.
+
 [Medium](https://medium.com/@poeciborg): where I write about writing (so meta), literature and other wordy stuff.
-[Twitter](https://twitter.com/poeciborg): where I cry.
+
+[Twitter](https://twitter.com/poeciborg): where I go to C&C (cry and complain).
 
 ### Current mindframe
 
