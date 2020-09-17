@@ -2,7 +2,7 @@
 Title: Poeciborg
 ---
 ### Taller "Escribir como máquinas"
-#### [Info e inscripción](https://www.culturalmoran.com/formacin/escribircomomaquinas): a partir del 6 de Octubre en el C. C. Morán.
+[Info e inscripción](https://www.culturalmoran.com/formacin/escribircomomaquinas): empieza el martes 6 de octubre a las 19 hs. en el C. C. Morán.
 
 ### Articles
 
