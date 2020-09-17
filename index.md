@@ -9,23 +9,23 @@ Title: Poeciborg
 
 ### Articles
 
-[AI Dungeon: la escritura como videojuego](https://medium.com/@poeciborg/ai-dungeon-la-escritura-como-videojuego-d37521fa7dac)
+[AI Dungeon: la escritura como videojuego](https://bit.ly/3kkjKfo)
 
-[El futuro de los procesadores de texto](https://medium.com/@poeciborg/el-futuro-de-los-procesadores-de-texto-ca830b0a051): Una publicidad de ciencia ficción.
+[El futuro de los procesadores de texto](https://bit.ly/poeciborg_author): Una publicidad de ciencia ficción.
 
 [What will the software for writers become?](https://medium.com/@poeciborg/what-will-the-software-for-writers-become-6fe81f1b6d7a): A science fiction brochure.
 
-[Las estrellas van a seguir en el cielo](https://medium.com/@poeciborg/bert-gpt3-clarke-509d8b4922a5): acerca de la paranoia "humanista" con GPT-3.
+[Las estrellas van a seguir en el cielo](https:bit.ly/poeciborg_estrellas): acerca de la paranoia "humanista" con GPT-3.
 
 [Lee Sizemore: the ultimate UX Writer](https://medium.com/@poeciborg/lee-sizemore-the-ultimate-ux-writer-db540b53878d): about my favourite character on Westworld.
 
 [¿Se puede aprender a escribir mejor en una semana?](https://medium.com/@poeciborg/se-puede-aprender-a-escribir-mejor-en-una-semana-36f1e47bf310): técnica.
 
-[Lo que implica escribir en computadora y que las computadoras escriban](https://medium.com/@poeciborg/lo-que-implica-escribir-en-computadora-y-que-las-computadoras-escriban-17cb268b2dd)
+[Lo que implica escribir en computadora y que las computadoras escriban](https://bit.ly/3f9lMfu)
 
 [Lecturas más allá de Westworld](https://medium.com/@poeciborg/lecturas-m%C3%A1s-all%C3%A1-de-westworld-c4497877fb8): índice de lecturas
 
-[El algoritmo Poe: Análisis (muy) simple de una obra de inteligencia artificial](https://planetachatbot.com/el-algoritmo-poe-an%C3%A1lisis-muy-simple-de-una-obra-de-inteligencia-artificial-1ed5965f85df)
+[El algoritmo Poe: Análisis (muy) simple de una obra de inteligencia artificial](https://bit.ly/poeciborg_poe)
 
 [Qué es escribir con computadora(s)](https://medium.com/@poeciborg/qu%C3%A9-es-escribir-con-computadora-s-da6a4e113699)
 
