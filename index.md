@@ -11,21 +11,21 @@ Title: Poeciborg
 
 [AI Dungeon: la escritura como videojuego](https://bit.ly/3kkjKfo)
 
-[El futuro de los procesadores de texto](https://bit.ly/poeciborg_author): Una publicidad de ciencia ficción.
+[El futuro de los procesadores de texto](https://bit.ly/poeciborg_author) - Una publicidad de ciencia ficción.
 
-[What will the software for writers become?](https://medium.com/@poeciborg/what-will-the-software-for-writers-become-6fe81f1b6d7a): A science fiction brochure.
+[What will the software for writers become?](https://medium.com/@poeciborg/what-will-the-software-for-writers-become-6fe81f1b6d7a) - A science fiction brochure.
 
-[Las estrellas van a seguir en el cielo](https:bit.ly/poeciborg_estrellas): acerca de la paranoia "humanista" con GPT-3.
+[Las estrellas van a seguir en el cielo](https:bit.ly/poeciborg_estrellas) - Acerca de la paranoia "humanista" con GPT-3.
 
-[Lee Sizemore: the ultimate UX Writer](https://medium.com/@poeciborg/lee-sizemore-the-ultimate-ux-writer-db540b53878d): about my favourite character on Westworld.
+[Lee Sizemore: the ultimate UX Writer](https://medium.com/@poeciborg/lee-sizemore-the-ultimate-ux-writer-db540b53878d) - About my favourite character on Westworld.
 
-[¿Se puede aprender a escribir mejor en una semana?](https://medium.com/@poeciborg/se-puede-aprender-a-escribir-mejor-en-una-semana-36f1e47bf310): técnica.
+[¿Se puede aprender a escribir mejor en una semana?](https://medium.com/@poeciborg/se-puede-aprender-a-escribir-mejor-en-una-semana-36f1e47bf310) - Una técnica.
 
-[Lo que implica escribir en computadora y que las computadoras escriban](https://bit.ly/3f9lMfu)
+[Lo que implica escribir en computadora y que las computadoras escriban](https://bit.ly/3f9lMfu) - Introducción parcial a mi tesis de maestría.
 
-[Lecturas más allá de Westworld](https://medium.com/@poeciborg/lecturas-m%C3%A1s-all%C3%A1-de-westworld-c4497877fb8): índice de lecturas
+[Lecturas más allá de Westworld](https://medium.com/@poeciborg/lecturas-m%C3%A1s-all%C3%A1-de-westworld-c4497877fb8) - Un índice de lecturas.
 
-[El algoritmo Poe: Análisis (muy) simple de una obra de inteligencia artificial](https://bit.ly/poeciborg_poe)
+[El algoritmo Poe: Análisis (muy) simple de una obra de inteligencia artificial](https://bit.ly/poeciborg_poe) - Una pequeña matriz de análisis.
 
 [Qué es escribir con computadora(s)](https://medium.com/@poeciborg/qu%C3%A9-es-escribir-con-computadora-s-da6a4e113699)
 
