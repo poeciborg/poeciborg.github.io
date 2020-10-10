@@ -3,6 +3,9 @@ Title: Poeciborg
 ---
 ### Poeciborg - Matías Buonfrate
 
+### Último post
+[La escritura, según Google](https://bit.ly/3iIUePz)
+
 
 ### Tesis de maestría
 [Máquinas que escriben](https://www.academia.edu/s/450a889a10)
