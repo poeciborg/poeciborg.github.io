@@ -4,7 +4,7 @@ Title: Poeciborg
 ### Poeciborg - Matías Buonfrate
 
 ### Último post
-[La escritura, según Google](https://bit.ly/3iIUePz)
+[Cómo se generarán automáticamente más de 100 novelas este mes](http://bit.ly/nanogenmo_poeciborg)
 
 
 ### Tesis de maestría
@@ -20,6 +20,7 @@ Las conclusiones apuntan a detallar las características de una posible poética
 ¡Inscripción finalizada! Comenzamos el martes 13 de octubre a las 19 hs. en el C. C. Morán.
 
 ### Articles
+[La escritura, según Google](https://bit.ly/3iIUePz)
 
 [AI Dungeon: la escritura como videojuego](https://bit.ly/3kkjKfo)
 
