@@ -4,22 +4,13 @@ Title: Poeciborg
 ### Poeciborg - Matías Buonfrate
 
 ### Último post
-[Cómo se generarán automáticamente más de 100 novelas este mes](http://bit.ly/nanogenmo_poeciborg)
+[Cómo escribir mejor](https://poeciborg.medium.com/c%C3%B3mo-escribir-mejor-a9b013d85f4c)
 
-
-### Tesis de maestría
-[Máquinas que escriben](https://www.academia.edu/s/450a889a10)
-
-¿Por qué investigar el trabajo de los ordenadores en una maestría de escritura creativa?
-La presente investigación se centra en los algoritmos de generación de narraciones, programas que, producen textos con medios diversos y dan resultados, a menudo, rudimentarios. Lo diremos aquí mismo, desde la introducción, para ventilar toda sospecha: su calidad es mediocre y las posibilidades de despreciarlos son altas.
-La investigación se desarrolla a través de la lectura de los artículos académicos que detallan su funcionamiento técnico como si se tratara de poéticas. De este modo, se analiza desde la teoría del Actor-Red expuesta por Latour el vínculo sociológico de estos programas con instituciones y actores humanos. Por otra parte, se extraen los preceptos narrativos y presupuestos artísticos que son programados para conducir a sus outputs.
-Se analizan tres algoritmos, buscando cubrir distintas estrategias de narración, cierta amplitud temporal y expansión geográfica: GhostWriter (Japón), Mexicas (México) e INES (España).
-Las conclusiones apuntan a detallar las características de una posible poética algorítmica que plantea nuevos desafíos al análisis, la lectura y el futuro de la literatura.
-
-### Taller "Escribir como máquinas"
-¡Inscripción finalizada! Comenzamos el martes 13 de octubre a las 19 hs. en el C. C. Morán.
+[Fanzine Gente Caniche #3](https://www.flipsnack.com/industrialimon/gente-caniche-3-t3f4nm97t9.html)
 
 ### Articles
+[Cómo se generarán automáticamente más de 100 novelas este mes](http://bit.ly/nanogenmo_poeciborg)
+
 [La escritura, según Google](https://bit.ly/3iIUePz)
 
 [AI Dungeon: la escritura como videojuego](https://bit.ly/3kkjKfo)
@@ -42,6 +33,17 @@ Las conclusiones apuntan a detallar las características de una posible poética
 
 [Qué es escribir con computadora(s)](https://medium.com/@poeciborg/qu%C3%A9-es-escribir-con-computadora-s-da6a4e113699)
 
+### Tesis de maestría
+[Máquinas que escriben](https://www.academia.edu/s/450a889a10)
+
+¿Por qué investigar el trabajo de los ordenadores en una maestría de escritura creativa?
+La presente investigación se centra en los algoritmos de generación de narraciones, programas que, producen textos con medios diversos y dan resultados, a menudo, rudimentarios. Lo diremos aquí mismo, desde la introducción, para ventilar toda sospecha: su calidad es mediocre y las posibilidades de despreciarlos son altas.
+La investigación se desarrolla a través de la lectura de los artículos académicos que detallan su funcionamiento técnico como si se tratara de poéticas. De este modo, se analiza desde la teoría del Actor-Red expuesta por Latour el vínculo sociológico de estos programas con instituciones y actores humanos. Por otra parte, se extraen los preceptos narrativos y presupuestos artísticos que son programados para conducir a sus outputs.
+Se analizan tres algoritmos, buscando cubrir distintas estrategias de narración, cierta amplitud temporal y expansión geográfica: GhostWriter (Japón), Mexicas (México) e INES (España).
+Las conclusiones apuntan a detallar las características de una posible poética algorítmica que plantea nuevos desafíos al análisis, la lectura y el futuro de la literatura.
+
+### Taller "Escribir como máquinas"
+¡Inscripción finalizada! Comenzamos el martes 13 de octubre a las 19 hs. en el C. C. Morán.
 
 ### About
 Hi! I'm Matías.
