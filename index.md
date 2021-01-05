@@ -4,11 +4,12 @@ Title: Poeciborg
 ### Poeciborg - Matías Buonfrate
 
 ### Último post
-[Cómo escribir mejor](https://poeciborg.medium.com/c%C3%B3mo-escribir-mejor-a9b013d85f4c)
-
-[Fanzine Gente Caniche #3](https://www.flipsnack.com/industrialimon/gente-caniche-3-t3f4nm97t9.html)
+[The Sims: una máquina de narrar](https://poeciborg.medium.com/the-sims-una-m%C3%A1quina-de-narrar-cd68b14d8b51?source=friends_link&sk=2aa20f52cc94656caaf1ce52715bb198)
 
 ### Articles
+[Cómo escribir mejor](https://poeciborg.medium.com/c%C3%B3mo-escribir-mejor-a9b013d85f4c) aparecido en el [Fanzine Gente Caniche #3](https://www.flipsnack.com/industrialimon/gente-caniche-3-t3f4nm97t9.html)
+
+
 [Cómo se generarán automáticamente más de 100 novelas este mes](http://bit.ly/nanogenmo_poeciborg)
 
 [La escritura, según Google](https://bit.ly/3iIUePz)
