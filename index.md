@@ -6,7 +6,7 @@ Title: Poeciborg
 ### Último
 [Qué es Crypto Art - Una intro básica](https://poeciborg.medium.com/qu%C3%A9-es-crypto-art-64d92115dfb3?source=friends_link&sk=1311819c6a74f6f7a84f77fde79bb3c3)
 
-[Crypto Art - Entrevista] (https://poeciborg.medium.com/crypto-art-entrevista-cb337fb9e7f8?source=friends_link&sk=68edb2bf05a4ed0de9419c1720de6e1c)
+[Crypto Art - Entrevista](https://poeciborg.medium.com/crypto-art-entrevista-cb337fb9e7f8?source=friends_link&sk=68edb2bf05a4ed0de9419c1720de6e1c)
 
 ### Articles
 [The Sims: una máquina de narrar](https://poeciborg.medium.com/the-sims-una-m%C3%A1quina-de-narrar-cd68b14d8b51?source=friends_link&sk=2aa20f52cc94656caaf1ce52715bb198)
