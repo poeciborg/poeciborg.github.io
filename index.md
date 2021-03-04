@@ -5,6 +5,7 @@ Title: Poeciborg
 
 ### Último
 [Qué es Crypto Art - Una intro básica](https://poeciborg.medium.com/qu%C3%A9-es-crypto-art-64d92115dfb3?source=friends_link&sk=1311819c6a74f6f7a84f77fde79bb3c3)
+
 [Crypto Art - Entrevista] (https://poeciborg.medium.com/crypto-art-entrevista-cb337fb9e7f8?source=friends_link&sk=68edb2bf05a4ed0de9419c1720de6e1c)
 
 ### Articles
